@@ -1,3 +1,3 @@
-# E-library_Sepuhbuku_ManagementSystem
+# E-library Sepuhbuku - Management System
 This program is a library management system program using the C++ language. Some of the features available in this program are adding new books, adding new library members, borrowing books, returning books, book search feature, book sorting feature, library group feature, distance information feature between library branches, fastest route search feature from the library to home book borrowers, and information about book categories.
 This program was created with the aim of collecting data structure and algorithm course assignments in semester 2. I hope this program can be further developed and be useful for everyone
